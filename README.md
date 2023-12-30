@@ -19,4 +19,5 @@ It's important to give proper credit. Add links to any repo that inspired you or
 Added bikeshare_2.py file to remote repository
 created .gitignore file and added all the .csv files(chicago.csv, new_york_city.csv, washington.csv) so that it will ignore all the csv files
 Created new branch named Documentation.
+Added comments for the import statements for bikeshare_2.py file.
 
