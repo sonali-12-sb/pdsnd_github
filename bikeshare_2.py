@@ -1,6 +1,9 @@
 import time
+# this line is used for importing time library
 import pandas as pd
+# this line is used for importing pandas library
 import numpy as np
+# this line is used for importing numpy library
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
